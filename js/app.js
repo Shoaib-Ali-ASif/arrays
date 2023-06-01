@@ -17,7 +17,6 @@ console.log(students);
 // Make an array to store the names of students and check whether that array has your own name or not and also return the index of that value.
 
 let nameOfStudents = ["Ali", "Hassan", "Farhan", "Chand", "Shoaib"];
-
 console.log(nameOfStudents);
 
 // Check whether the first or the last index of an array has a specified value, let's say 5.
